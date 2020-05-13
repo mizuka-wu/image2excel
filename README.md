@@ -10,4 +10,4 @@ a image file which is less then 2m
 4. open the download file
 
 ## start
-[click hear](./dist/index.html)
+[click hear](https://www.mizuka.top/image2excel/)
