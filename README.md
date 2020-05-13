@@ -1,24 +1,13 @@
-# image2excel
+# A project trans your image to a excel
 
-## Project setup
-```
-npm install
-```
+## require
+a image file which is less then 2m
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## step
+1. click the button
+2. pick an image
+3. wait a little time
+4. open the download file
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## start
+[click heare](./dist/index.html)
